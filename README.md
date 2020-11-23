@@ -5,7 +5,10 @@ Para completar la primera práctica obligatoria sobre gestión de tareas en meto
 
 **Incluid debajo el nombre de los miembros del grupo:**
 
-**DAVID PEREZ MORENO** 
+**DAVID PEREZ MORENO**
+
 **MARIO GARCIA MARTINEZ**
+
 **ALBERTO DIEZ BUSTO**
+
 **ALVARO HOYUELOS**
