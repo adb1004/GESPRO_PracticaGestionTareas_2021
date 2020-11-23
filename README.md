@@ -11,4 +11,4 @@ Para completar la primera práctica obligatoria sobre gestión de tareas en meto
 
 **ALBERTO DIEZ BUSTO**
 
-**ALVARO HOYUELOS**
+**ALVARO HOYUELOS MARTIN**
